@@ -10,4 +10,4 @@ Make sure to modify the path to your local WinRAR.exe in the line "set unrar=...
 If another target directory is preferred, change "set scriptdir=..." to a path of choice.\
 Processed directories will be moved to a new directory called "done".\
 \
-REM Caution! Limited errorhandling! Use at own risk!
+Caution! Limited errorhandling! Use at own risk!
