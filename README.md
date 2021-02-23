@@ -2,7 +2,7 @@
 Unpack content of subdirectories that are matching a certain scheme.\
 Created specifically to unpack usenet downloads.\
 \
-A batch script to unpack archives from usenet on a local PC running Windows.\
+This is a batch script to unpack archives from usenet on a local PC running Windows.\
 The directory containing the rar files should look like [directory{{password}}etc]\
 The password will be extracted and the content of the directory will be extracted to [directory].\
 The batch file shall be placed in the same directory as the directories to be unpacked.\
